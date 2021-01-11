@@ -1,0 +1,11 @@
+{
+    "name": "spa-portfolio",
+    "version": "1.0.0",
+    "description": "website for portfolio - James O'Rourke",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
